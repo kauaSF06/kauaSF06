@@ -1,4 +1,4 @@
-## ola! eu sou o kauã
+## Olá! eu sou o Kauã
 
 - 🔭 Atualmente trabalho como auxiliar administrativo.
 - 🌱 estudando typescript, node.js e php.
